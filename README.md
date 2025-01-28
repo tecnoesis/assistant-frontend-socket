@@ -13,6 +13,8 @@ npm install nodemon --save-dev # Install nodemon only as dev dependency
 The background website is set www.tecnoesis.gr and is meant for showcasing the assistant overlaid on top of a website. 
 You can change it with the one you want by setting the variable 'backdropRootURL' in 'server.js'
 
+The assistant frontend was written as ejs template and can be found in 'views/assistant.ejs'
+
 License: MIT
 Feel free to reach us for anything you want to ask at:
 
