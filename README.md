@@ -14,6 +14,7 @@ The background website is set to www.tecnoesis.gr showcasing the assistant overl
 You can change it with the one you want by setting the variable 'backdropRootURL' in 'server.js'
 The assistant frontend was written as ejs template and can be found in 'views/assistant.ejs'
 
+
 Feel free to reach us for anything you want:
 
 https://www.tecnoesis.gr
