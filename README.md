@@ -20,3 +20,7 @@ The assistant frontend was written as ejs template and can be found in 'views/as
 Feel free to reach us for anything you want:
 
 https://www.tecnoesis.gr
+
+# Screenshot
+
+![Image](https://github.com/user-attachments/assets/a0984b2e-ff6a-47eb-9844-af5581594be3)
