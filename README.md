@@ -1,3 +1,5 @@
+# AI Assistant frontend widget
+
 This repo contains the frontend of an AI assistant on the side of the screen that can be overlaid in any website.
 It is built in html / css (tailwind) / javascript.
 It uses sockets for the communication with the backend.
